@@ -1,7 +1,6 @@
 import Image from "next/image";
 
 export default function Home() {
-  return (
-   <div>Hello, i am Maryam</div>
-  );
+  return 
+  <h1>Hello, I am Maryam And this is my first Next.js project</h1>
 }
